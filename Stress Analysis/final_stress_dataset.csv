@@ -1,0 +1,3 @@
+rid,scenario,mode,psafe,stress,obstacles,pavement,traffic,no_crossing,parking,bike_lane,speed,road_marking,gender,age,education,employment,income,license_own,car_own,moto_own,bike_own,escooter_own,car_frequency,bike_frequency,escooter_frequency,PT_frequency,metro_frequency,type,pav,obst,cross,veh,bike,ped,slope,block,type1,type2,type3,type4,cross1,cross2,marking,parked_veh
+101,scenario11,car,6,1,0,0,1,0,1,0,0,1,0,3,4,3,3,1,1,0,1,1,3,2,1,3,4,1,1,0,0,100,90,5,1,1,1,0,0,0,0,0,0,1
+101,scenario11,ebike,2,1,0,0,1,0,1,0,0,0,0,3,4,3,3,1,1,0,1,1,3,2,1,3,4,1,1,0,0,100,90,5,1,1,1,0,0,0,0,0,0,1
